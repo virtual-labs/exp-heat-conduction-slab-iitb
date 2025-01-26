@@ -10,7 +10,7 @@
         "correct_option": "d"
     },
     {
-        "question": "Velocity head is given by",
+        "question": "The temperature distribution in solid sphere with heat generation is given by",
         "qid": 2,
         "option_a": "$$ T = \\frac{\\bar{q}}{4k}(R^2 - r^2) + T_w $$",
         "option_b": "$$ T = \\frac{\\bar{q}}{6k}(R^2 - r^2) + \\frac{\\bar{q}R}{3h} + T_f $$",
