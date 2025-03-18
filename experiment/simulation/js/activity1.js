@@ -7,7 +7,7 @@ function activity1() {
         <h4 class="center-text fs-20px fw-600"></h4>
 
         <div class="fs-16px">
-        <h5>Conduction through composite slab</h5>
+        <h5>Conduction with heat generation through composite slab</h5>
         <p>Learning Objective: Calculate the inside and outside temperature</p>
         </div>
 
