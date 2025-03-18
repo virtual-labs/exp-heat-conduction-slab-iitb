@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "The temperature distribution in solid cylinder with heat generation is given by",
+        "qid": 1,
+        "option_a": "$$ T = \\frac{\\bar{q}}{4k}(R^2 - r^2) - T_w $$",
+        "option_b": "$$ T = \\frac{\\bar{q}}{6k} + \\frac{\\bar{q}R}{3h} + T_f $$",
+        "option_c": "$$ T = \\frac{\\bar{q}}{6k}(R^2 - r^2) + \\frac{\\bar{q}R}{3h} + T_f $$",
+        "option_d": "$$ T = \\frac{\\bar{q}}{4k}(R^2 - r^2) + T_w $$",
+        "correct_option": "d"
+    },
+    {
+        "question": "The temperature distribution in solid sphere with heat generation is given by",
+        "qid": 2,
+        "option_a": "$$ T = \\frac{\\bar{q}}{4k}(R^2 - r^2) + T_w $$",
+        "option_b": "$$ T = \\frac{\\bar{q}}{6k}(R^2 - r^2) + \\frac{\\bar{q}R}{3h} + T_f $$",
+        "option_c": "$$ T = \\frac{\\bar{q}}{4k}(R^2 - r^2) - T_w $$",  
+        "option_d": "$$ T = \\frac{\\bar{q}}{6k} + \\frac{\\bar{q}R}{3h} + T_f $$",
+        "correct_option": "b"
+    }
+]

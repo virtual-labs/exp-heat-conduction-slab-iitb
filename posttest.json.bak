@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A flat plate of steel (k = 54 w/m-k) 1.32cm thick, 12cm wide and 1m high generates heat at the rate of 7029kw/m3. The temperature of the left end surface is 80 C and on right end is 98 C. Find the value of maximum temperature in the slab.",
+      "qid": 1,
+      "option_a": "92.908 k/ws",
+      "option_b": "98.978 k/w",
+      "option_c": "94.293 k/w",
+      "option_d": "103.520 k/w",
+      "correct_option": "b"
+   },
+   {
+      "question": "In the above question find the heat flow from each surface.",
+      "qid": 2,
+      "option_a": "Left Surface heat flow is -12528.64 w and right surface heat flow is 934824.23 w",
+      "option_b": "Left Surface heat flow is -14403.33 w and right surface heat flow is 1098990.26 w",
+      "option_c": "Left Surface heat flow is -23208.12 w and right surface heat flow is 1093242.26 w",
+      "option_d": "Left Surface heat flow is -12230.93 w and right surface heat flow is 2092890.92 w",
+      "correct_option": "b"
+   }
+]
